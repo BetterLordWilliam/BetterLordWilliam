@@ -6,4 +6,16 @@ Hi, I’m @BetterLordWilliam
 - I’m currently studying at the British Columbian Institute of Technology
 - I love working on personal projects
 
-[LinkedIn](www.linkedin.com/in/will-otterbein-85268a2a8)
+# My socials
+
+- LinkedIn
+- 
+
+# Project Showcase
+
+## HowRu Webapp
+
+## KeyFinder Game
+
+## Portfolio Website
+
