@@ -22,6 +22,10 @@ Here's my tech stack
 <img height="50" alt="node" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e20cb3c0b667ba8c8e07571_icon-node--tech.png"/>
 </p>
 
+# Stats
+
+<href src="https://github-readme-stats.vercel.app/api?username=betterlordwilliam&show_icons=true&theme=gruvbox"/>
+
 <hr>
 
 # Project Showcase
