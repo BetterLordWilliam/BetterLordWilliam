@@ -38,26 +38,26 @@ Want more details about my profile? Here are some stats.
 
 Here's a quick overview of all my projects.
  
-## HowRu Webapp
+### HowRu Webapp
 
 Complete
 
 [Hosted link](https://howru2-fcdff.web.app/)
 [Project repository](https://github.com/rraymondx/1800_202330_BBY25.git)
 
-### Project Notes
+#### Project Notes
 
 - Mental health focused social media app
 - Developed as a part of a team of three students
 - I was responsible for the creation of the messaging system
 
-## KeyFinder Game
+### KeyFinder Game
 
 Complete
 
 [Project repository](https://github.com/BetterLordWilliam/KeyFinder.git)
 
-### Project Notes
+#### Project Notes
  
 - Single player key hunter
 - Player must navigate levels and unlock doors with keys to reach the escape chest
@@ -65,14 +65,14 @@ Complete
 - The game ended up winning me a scholarship from my province
 - Runnable jar file included
 
-## Portfolio Website
+### Portfolio Website
 
 Incomplete/In Development
 
 Hosted link (coming soon)
 [Project repository](https://github.com/BetterLordWilliam/wOtterbeinWebsite.git)
 
-### Project Notes
+#### Project Notes
 
 - In development
 - Will house information regarding my career and personal projects
