@@ -22,8 +22,6 @@ Here's my tech stack
 <img height="50" alt="node" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e20cb3c0b667ba8c8e07571_icon-node--tech.png"/>
 </p>
 
-[LinkedIn](http://www.linkedin.com/in/will-otterbein-85268a2a8)
-
 <hr>
 
 # Project Showcase
@@ -74,3 +72,5 @@ Hosted link (coming soon)
 <hr>
 
 # Social Media Links
+
+[LinkedIn](http://www.linkedin.com/in/will-otterbein-85268a2a8)
