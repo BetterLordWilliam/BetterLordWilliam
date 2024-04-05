@@ -42,7 +42,7 @@ Here's a quick overview of all my projects.
  
 <!-- Project: HowRu -->
 <div>
-  <img style="margin-bottom:25px" align="right" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
+  <img style="vertical-align: middle; margin-bottom: 5px;" align="right" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
   <h2>HowRu Webapp</h2>
 </div>
 
