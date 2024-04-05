@@ -8,7 +8,7 @@ Hi, I’m @BetterLordWilliam
 
 Feel free to add me on LinkedIn
 
----
+<hr>
 
 # Tools and Stats
 
@@ -34,16 +34,18 @@ Want more details about my profile? Here are some stats.
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=BetterLordWilliam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
 
----
+<hr>
 
 # Project Showcase
 
 Here's a quick overview of all my projects.
  
-<div style="display: flex; align-items: center;">
-  <img style="margin-right: 10px;" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
-  <h2 style="margin-bottom: 0;">HowRu Webapp</h2>
+<!-- Project: HowRu -->
+<div>
+  <img align="right" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
+  <p style="font-size: 22pt"><b>HowRu Webapp</b></p>
 </div>
+
 
 Complete
 
@@ -61,7 +63,7 @@ Complete
 <!-- Project: WebsiteIcon -->
 <div>
   <img align="right" height="47" src="./media/images/personalWebsiteIcon.png" alt="logo">
-  <h2>KeyFinder</h2>
+  <p style="font-size: 22pt"><b>KeyFinder</b></p>
 </div>
 
 Incomplete/In Development
@@ -81,7 +83,7 @@ Hosted link (coming soon) |
 <!-- Project: KeyFinder -->
 <div>
   <img align="right" height="35" src="./media/images/keyfinderIconNew.png" alt="logo">
-  <h2>KeyFinder</h2>
+  <p style="font-size: 22pt"><b>KeyFinder</b></p>
 </div>
 
 Complete
@@ -97,8 +99,7 @@ Complete
 - Runnable jar file included
 
 <br>
-
----
+<hr>
 
 # Social Media Links
 
