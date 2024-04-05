@@ -28,8 +28,8 @@ Here's my tech stack
 
 Here's a quick overview of all my projects.
 
-<lr></lr>
-
+<hr>
+ 
 ## HowRu Webapp
 
 Complete
@@ -71,6 +71,6 @@ Hosted link (coming soon)
 - Created with standard web technologies
 - Solo project
 
-<br></br>
+<hr>
 
 # Social Media Links
