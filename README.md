@@ -8,6 +8,8 @@ Hi, I’m @BetterLordWilliam
 
 Feel free to add me on LinkedIn
 
+<hr>
+
 # Tools and Stats
 
 Here's an overview of my tech stack. I'm proficient in Object-Oriented programming and web technologies.
