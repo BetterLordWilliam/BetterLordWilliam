@@ -34,7 +34,7 @@ Want more details about my profile? Here are some stats.
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=BetterLordWilliam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
 
-<hr>
+---
 
 # Project Showcase
 
@@ -78,7 +78,7 @@ Hosted link (coming soon) |
 - Created with standard web technologies
 - Solo project
 
-<br>
+---
 
 <!-- Project: KeyFinder -->
 <div>
@@ -99,7 +99,7 @@ Complete
 - Runnable jar file included
 
 <br>
-<hr>
+---
 
 # Social Media Links
 
