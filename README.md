@@ -24,7 +24,11 @@ Here's my tech stack
 
 # Stats
 
-![Will's Github Stats](https://github-readme-stats.vercel.app/api?username=betterlordwilliam&show_icons=true&theme=gruvbox)
+<p align="center">
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=BetterLordWilliam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=BetterLordWilliam&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=BetterLordWilliam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+</p>
 
 <hr>
 
