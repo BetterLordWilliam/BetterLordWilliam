@@ -8,7 +8,7 @@ Hi, I’m @BetterLordWilliam
 
 Feel free to add me on LinkedIn
 
-<hr>
+---
 
 # Tools and Stats
 
