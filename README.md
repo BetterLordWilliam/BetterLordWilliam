@@ -24,11 +24,11 @@ Here's my tech stack
 
 [LinkedIn](http://www.linkedin.com/in/will-otterbein-85268a2a8)
 
+<hr>
+
 # Project Showcase
 
 Here's a quick overview of all my projects.
-
-<hr>
  
 ## HowRu Webapp
 
