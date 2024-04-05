@@ -43,7 +43,7 @@ Here's a quick overview of all my projects.
 <!-- Project: HowRu -->
 <div>
   <img align="right" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
-  <p style="font-size: 22pt"><b>HowRu Webapp</b></p>
+  <p style="font-size: 25pt"><b>HowRu Webapp</b></p>
 </div>
 
 
@@ -63,7 +63,7 @@ Complete
 <!-- Project: WebsiteIcon -->
 <div>
   <img align="right" height="47" src="./media/images/personalWebsiteIcon.png" alt="logo">
-  <p style="font-size: 22pt"><b>KeyFinder</b></p>
+  <p style="font-size: 25pt"><b>KeyFinder</b></p>
 </div>
 
 Incomplete/In Development
@@ -83,7 +83,7 @@ Hosted link (coming soon) |
 <!-- Project: KeyFinder -->
 <div>
   <img align="right" height="35" src="./media/images/keyfinderIconNew.png" alt="logo">
-  <p style="font-size: 22pt"><b>KeyFinder</b></p>
+  <p style="font-size: 25pt"><b>KeyFinder</b></p>
 </div>
 
 Complete
