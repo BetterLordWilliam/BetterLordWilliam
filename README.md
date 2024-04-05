@@ -43,7 +43,7 @@ Here's a quick overview of all my projects.
 <!-- Project: HowRu -->
 <div>
   <img align="right" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
-  <p style="font-size: 25pt"><b>HowRu Webapp</b></p>
+  <h2>HowRu Webapp</h2>
 </div>
 
 
@@ -83,7 +83,7 @@ Hosted link (coming soon) |
 <!-- Project: KeyFinder -->
 <div>
   <img align="right" height="35" src="./media/images/keyfinderIconNew.png" alt="logo">
-  <p style="font-size: 25pt"><b>KeyFinder</b></p>
+  <h2>KeyFinder</h2>
 </div>
 
 Complete
