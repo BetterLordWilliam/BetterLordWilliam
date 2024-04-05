@@ -8,9 +8,9 @@ Hi, I’m @BetterLordWilliam
 
 Feel free to add me on LinkedIn
 
-# Tools
+# Tools and Stats
 
-Here's an overview of my tech stack
+Here's an overview of my tech stack. I'm proficient in Object-Oriented programming and web technologies.
 
 <p align="center">
 <img height="50" alt="java" src="https://icon-library.com/images/java-icon-png/java-icon-png-16.jpg">
@@ -21,10 +21,6 @@ Here's an overview of my tech stack
 <img height="50" alt="javascript" src="https://weebket.com/assets/images/category/6218311d561101645752605.png"/>
 <img height="50" alt="node" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e20cb3c0b667ba8c8e07571_icon-node--tech.png"/>
 </p>
-
-I'm proficient in Object-Oriented programming and web technologies.
-
-# Stats
 
 Want more details about my profile? Here are some stats.
 
