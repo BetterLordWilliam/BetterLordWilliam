@@ -8,8 +8,6 @@ Hi, I’m @BetterLordWilliam
 
 Feel free to add me on LinkedIn
 
-<br></br>
-
 # Tools
 
 Here's my tech stack
@@ -30,7 +28,7 @@ Here's my tech stack
 
 Here's a quick overview of all my projects.
 
-<br></br>
+<lr></lr>
 
 ## HowRu Webapp
 
