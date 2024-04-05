@@ -82,7 +82,7 @@ Hosted link (coming soon) |
 
 <!-- Project: KeyFinder -->
 <div>
-  <img align="right" height="35" src="./media/images/keyFinderIconNew.png" alt="logo">
+  <img align="right" height="35" src="./media/images/keyfinderIconNew.png" alt="logo">
   <p style="font-size: 22pt"><b>KeyFinder</b></p>
 </div>
 
