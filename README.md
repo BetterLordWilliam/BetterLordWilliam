@@ -24,7 +24,7 @@ Here's my tech stack
 
 # Stats
 
-![Will's Github Stats]("https://github-readme-stats.vercel.app/api?username=betterlordwilliam&show_icons=true&theme=gruvbox")
+![Will's Github Stats](https://github-readme-stats.vercel.app/api?username=betterlordwilliam&show_icons=true&theme=gruvbox)
 
 <hr>
 
