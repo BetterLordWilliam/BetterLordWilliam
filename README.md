@@ -28,6 +28,10 @@ Here's my tech stack
 
 # Project Showcase
 
+Here's a quick overview of all my projects.
+
+<br></br>
+
 ## HowRu Webapp
 
 Complete
@@ -40,13 +44,6 @@ Complete
 - Mental health focused social media app
 - Developed as a part of a team of three students
 - I was responsible for the creation of the messaging system
-
-### Technologies
-
-- JavaScript
-- HTML and CSS
-- Bootstrap
-- Firebase and Firestore
 
 ## KeyFinder Game
 
@@ -62,11 +59,6 @@ Complete
 - The game ended up winning me a scholarship from my province
 - Runnable jar file included
 
-### Technologies
-
-- Java
-- BeepBox
-
 ## Portfolio Website
 
 Incomplete/In Development
@@ -81,10 +73,6 @@ Hosted link (coming soon)
 - Created with standard web technologies
 - Solo project
 
-### Technologies
+<br></br>
 
-- JavaScript
-- HTML and CSS
-- Node.js
-- Express.js
-- MySQL
+# Social Media Links
