@@ -78,7 +78,7 @@ Hosted link (coming soon) |
 - Created with standard web technologies
 - Solo project
 
----
+<br>
 
 <!-- Project: KeyFinder -->
 <div>
