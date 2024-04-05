@@ -27,6 +27,8 @@ Here's my tech stack
 <p align="center">
 ![Will's Github Stats](https://github-readme-stats.vercel.app/api?username=betterlordwilliam&show_icons=true&theme=gruvbox)
 </p>
+![Will's Github Stats](https://github-readme-stats.vercel.app/api?username=betterlordwilliam&show_icons=true&theme=gruvbox)
+
 
 <hr>
 
