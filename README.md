@@ -40,10 +40,9 @@ Want more details about my profile? Here are some stats.
 
 Here's a quick overview of all my projects.
  
-<!-- Project: HowRu -->
-<div>
-  <img style="vertical-align: middle; margin-bottom: 5px;" align="right" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
-  <h2>HowRu Webapp</h2>
+<div style="display: flex; align-items: center;">
+  <img style="margin-right: 10px;" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
+  <h2 style="margin-bottom: 0;">HowRu Webapp</h2>
 </div>
 
 Complete
