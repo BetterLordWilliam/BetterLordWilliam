@@ -38,7 +38,7 @@ Want more details about my profile? Here are some stats.
 
 Here's a quick overview of all my projects.
  
-### HowRu Webapp
+## HowRu Webapp
 
 Complete
 
@@ -51,7 +51,7 @@ Complete
 - Developed as a part of a team of three students
 - I was responsible for the creation of the messaging system
 
-### KeyFinder Game
+## KeyFinder Game
 
 Complete
 
@@ -65,7 +65,7 @@ Complete
 - The game ended up winning me a scholarship from my province
 - Runnable jar file included
 
-### Portfolio Website
+## Portfolio Website
 
 Incomplete/In Development
 
