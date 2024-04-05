@@ -10,7 +10,7 @@ Feel free to add me on LinkedIn
 
 # Tools
 
-Here's my tech stack
+Here's an overview of my tech stack
 
 <p align="center">
 <img height="50" alt="java" src="https://icon-library.com/images/java-icon-png/java-icon-png-16.jpg">
@@ -22,7 +22,11 @@ Here's my tech stack
 <img height="50" alt="node" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e20cb3c0b667ba8c8e07571_icon-node--tech.png"/>
 </p>
 
+I'm proficient in Object-Oriented programming and web technologies.
+
 # Stats
+
+Want more details about my profile? Here are some stats.
 
 <p align="center">
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=BetterLordWilliam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
