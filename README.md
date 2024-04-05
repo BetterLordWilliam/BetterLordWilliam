@@ -63,7 +63,7 @@ Complete
 <!-- Project: WebsiteIcon -->
 <div>
   <img align="right" height="47" src="./media/images/personalWebsiteIcon.png" alt="logo">
-  <p style="font-size: 25pt"><b>KeyFinder</b></p>
+  <p style="font-size: 30pt"><b>KeyFinder</b></p>
 </div>
 
 Incomplete/In Development
