@@ -42,8 +42,7 @@ Here's a quick overview of all my projects.
  
 <!-- Project: HowRu -->
 <div>
-  <img align="right" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
-  <br>
+  <img style="padding-bottom:25px" align="right" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
   <h2>HowRu Webapp</h2>
 </div>
 
