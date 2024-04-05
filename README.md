@@ -28,7 +28,9 @@ Want more details about my profile? Here are some stats.
 
 <p align="center">
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=BetterLordWilliam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<br>
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=BetterLordWilliam&theme=vue-dark&hide_border=true' />
+<br>
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=BetterLordWilliam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
 
@@ -38,11 +40,16 @@ Want more details about my profile? Here are some stats.
 
 Here's a quick overview of all my projects.
  
-## HowRu Webapp
+<!-- Project: HowRu -->
+<div>
+  <img align="right" height="75" src="./media/images/websiteIconNew1.png" alt="logo">
+  <p style="font-size: 22pt"><b>HowRu Webapp</b></p>
+</div>
+
 
 Complete
 
-[Hosted link](https://howru2-fcdff.web.app/)
+[Hosted link](https://howru2-fcdff.web.app/) |
 [Project repository](https://github.com/rraymondx/1800_202330_BBY25.git)
 
 #### Project Notes
@@ -51,7 +58,33 @@ Complete
 - Developed as a part of a team of three students
 - I was responsible for the creation of the messaging system
 
-## KeyFinder Game
+<br>
+
+<!-- Project: WebsiteIcon -->
+<div>
+  <img align="right" height="47" src="./media/images/personalWebsiteIcon.png" alt="logo">
+  <p style="font-size: 22pt"><b>KeyFinder</b></p>
+</div>
+
+Incomplete/In Development
+
+Hosted link (coming soon) |
+[Project repository](https://github.com/BetterLordWilliam/wOtterbeinWebsite.git)
+
+#### Project Notes
+
+- In development
+- Will house information regarding my career and personal projects
+- Created with standard web technologies
+- Solo project
+
+<br>
+
+<!-- Project: KeyFinder -->
+<div>
+  <img align="right" height="35" src="./media/images/keyFinderIconNew.png" alt="logo">
+  <p style="font-size: 22pt"><b>KeyFinder</b></p>
+</div>
 
 Complete
 
@@ -65,20 +98,7 @@ Complete
 - The game ended up winning me a scholarship from my province
 - Runnable jar file included
 
-## Portfolio Website
-
-Incomplete/In Development
-
-Hosted link (coming soon)
-[Project repository](https://github.com/BetterLordWilliam/wOtterbeinWebsite.git)
-
-#### Project Notes
-
-- In development
-- Will house information regarding my career and personal projects
-- Created with standard web technologies
-- Solo project
-
+<br>
 <hr>
 
 # Social Media Links
