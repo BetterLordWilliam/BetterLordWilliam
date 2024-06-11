@@ -2,17 +2,17 @@
 
 Hi, I’m @BetterLordWilliam
 
-- I’m interested in all things computing
-- I’m currently studying at the British Columbia Institute of Technology
-- I love working on personal projects
+- I am interested in all things computing,
+- Currently studying at the British Columbia Institute of Technology and,
+- I love working on personal projects.
 
-Feel free to add me on LinkedIn
+Feel free to add me on [LinkedIn](http://www.linkedin.com/in/will-otterbein-85268a2a8)
 
 <hr>
 
 # Tools and Stats
 
-Here's an overview of my tech stack. I'm proficient in Object-Oriented programming and web technologies.
+Here's an overview of my tech stack.
 
 <p align="center">
 <img height="50" alt="java" src="https://icon-library.com/images/java-icon-png/java-icon-png-16.jpg">
@@ -38,7 +38,7 @@ Want more details about my profile? Here are some stats.
 
 # Project Showcase
 
-Here's a quick overview of all my projects.
+Here's a quick overview of some of my notable projects.
  
 <!-- Project: HowRu -->
 <div>
@@ -55,7 +55,7 @@ Complete
 #### Project Notes
 
 - Mental health focused social media app
-- Developed as a part of a team of three students
+- Developed as a part of a team of three BCIT students
 - I was responsible for the creation of the messaging system
 
 <br>
@@ -66,17 +66,16 @@ Complete
   <p style="font-size: 22pt"><b>Website</b></p>
 </div>
 
-Incomplete/In Development
+Complete
 
-Hosted link (coming soon) |
-[Project repository](https://github.com/BetterLordWilliam/wOtterbeinWebsite.git)
+[Hosted link](https://wo-personal-site.vercel.app/) |
+[Project repository](https://github.com/BetterLordWilliam/WOPersonalSite)
 
 #### Project Notes
 
-- In development
-- Will house information regarding my career and personal projects
-- Created with standard web technologies
-- Solo project
+- Project portfolio page showcasing projects
+- Hobbies page showcasing less professional endeavours
+- Created with NextJS, hosted with Vercel
 
 <br>
 
@@ -101,6 +100,3 @@ Complete
 <br>
 <hr>
 
-# Social Media Links
-
-[LinkedIn](http://www.linkedin.com/in/will-otterbein-85268a2a8)
