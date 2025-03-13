@@ -10,9 +10,7 @@ Feel free to add me on [LinkedIn](http://www.linkedin.com/in/will-otterbein-8526
 
 <hr>
 
-# Tools and Stats
-
-Here's an overview of my tech stack.
+# Technologies
 
 <p align="center">
 <img height="50" alt="java" src="https://icon-library.com/images/java-icon-png/java-icon-png-16.jpg">
@@ -24,17 +22,15 @@ Here's an overview of my tech stack.
 <img height="50" alt="node" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e20cb3c0b667ba8c8e07571_icon-node--tech.png"/>
 </p>
 
-Want more details about my profile? Here are some stats.
+I have varied interests when it comes to development.
 
-<p align="center">
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=BetterLordWilliam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<br>
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=BetterLordWilliam&theme=vue-dark&hide_border=true' />
-<br>
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=BetterLordWilliam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-</p>
+As of the current commit, I would say that desktop application development is the subject which is most captivating.
 
-<hr>
+Through BCIT's technical programming option, I have been introduced to .NET and C#, as well as some C++ through limited but insightful win32 projects.
+
+And my favorite language is C, even though I don't ever get the chance to use it for my school outside of solving stuff on leetcode.
+
+I have an interest in constructing a text editor in the C language, perhaps when I have free time I will do this, and of course you will see about that here!
 
 # Project Showcase
 
